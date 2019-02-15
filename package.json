@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/scott-x/demo-node/issues"
   },
-  "homepage": "https://github.com/scott-x/demo-node#readme"
+  "homepage": "https://github.com/scott-x/demo-node#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "node-filelist": "^1.0.0"
+  }
 }
